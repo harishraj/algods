@@ -4,7 +4,7 @@ package com.interview.array;
  * http://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/
  * Given an array of size n, the array contains numbers in range from 0 to k-1
  * where k is a positive integer and k <= n. Find the maximum repeating number
- * in this arra
+ * in this array
  */
 public class MaxRepeatingNumber {
 
